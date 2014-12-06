@@ -1,4 +1,7 @@
-chat
-====
+Чат русского сообщества OctoberCMS.ru
+===
 
-Чат русского сообщества OctoberCMS
+Ссылка на [чат](https://gitter.im/octobercms/chat)
+
+- [Сообщество OctoberCMS - octobercms.ru](http://octobercms.ru)
+
